@@ -1,0 +1,17 @@
+@media(max-width: 376px) {
+
+    .container {
+        height: auto;
+    }
+
+  .lista-de-imagens {
+    flex-direction: column;
+    gap: 0;
+  }
+}
+
+@media(max-width: 1440px) {
+    .container {
+        height: auto;
+    }
+}

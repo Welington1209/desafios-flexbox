@@ -1,0 +1,47 @@
+body {
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 300;
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lista-de-imagens {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+
+.lista-de-imagens li .info {
+    margin: auto auto 40px 30px;
+    color: aliceblue;
+}
+
+.lista-de-imagens li .info h2 {
+font-size: 30px;
+font-weight: 700;
+}
+
+.lista-de-imagens .rome {
+    background-image: url(../images/6\ 1.jpg);
+}
+
+.lista-de-imagens .boat-at-sea {
+    background-image: url(../images/boat\ 1.png);
+}
+
+.lista-de-imagens .sande-and-sea {
+    background-image: url(../images/4\ 1.png);
+}
+
+.lista-de-imagens .starry-nigth {
+    background-image: url(../images/5\ 1.png);
+}

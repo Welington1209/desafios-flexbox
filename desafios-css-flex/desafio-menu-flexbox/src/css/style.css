@@ -1,0 +1,73 @@
+body {
+    width: 100%;
+    font-family: 'Public Sans', sans-serif;
+}
+
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 45px;
+}
+
+.nome-logo {
+    display: flex;
+    color: var(--color);
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.logo {
+    width: 45px;
+    height: 42px;
+    margin-right: 5px;
+}
+
+.nome-logo:hover {
+    transform: scale(1.05);
+}
+
+.sobre {
+    display: flex;
+    align-items: center;
+}
+
+.menu {
+    display: flex;
+}
+
+.menu li {
+    margin-left: 20px;
+    font-weight: 400;
+}
+
+.menu li a{
+    text-decoration: none;
+    color: var(--color);
+    padding: 10px 5px;
+    transition: 0.3s ease-in-out;
+}
+
+.menu  li a:hover {
+    background-color: var(--fundo);
+    color: var(--color-hover);
+}
+
+.botao {
+    padding: 10px 20px;
+    /* width: 151px;
+    height: 55px; */
+    background-color: var(--fundo);
+    color: var(--color-hover);
+    margin-left: 20px;
+    border-radius: 10px;
+    /* font-size: 16px; */
+    font-weight: 300;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+}
+
+.botao:hover {
+    background-color:var(--fundo-hover);
+    transform: scale(1.05);
+}
