@@ -18,7 +18,7 @@ O usuário deve ser capaz de:
 
 ### Aparência
 
-![](/src/images/Captura%20de%20tela%202023-06-30%20003212.png)
+![](../desafio-cartao-perfil-flexbox/src/images/Captura%20de%20tela%202023-06-30%20003212.png)
 
 ### Links
 
