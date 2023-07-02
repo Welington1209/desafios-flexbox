@@ -19,7 +19,7 @@ O usuário deve ser capaz de:
 
 ### Aparência
 
-![](/images/Captura%20de%20tela%202023-07-02%20100142.png)
+![](../desafio-frontend-mentor-flexbox/images/Captura%20de%20tela%202023-07-02%20100142.png)
 
 ### Links
 
